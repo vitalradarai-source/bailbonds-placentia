@@ -21,7 +21,7 @@
 | Date | Day | Slug | Keyword | Category | Status |
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-placentia | what happens after an arrest in Placentia | Bail Process | ✅ published |
-| 2026-04-09 | Thu | how-bail-bonds-work-placentia | how do bail bonds work in Placentia | Bail Bonds 101 | ⬜ |
+| 2026-04-09 | Thu | how-bail-bonds-work-placentia | how do bail bonds work in Placentia | Bail Bonds 101 | ✅ published |
 | 2026-04-10 | Fri | how-much-is-bail-placentia | how much is bail in Orange County | Bail Amounts | ⬜ |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-placentia | how to get someone out of jail in Placentia | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-placentia | domestic violence bail bonds Placentia | DV Bail | ⬜ |
