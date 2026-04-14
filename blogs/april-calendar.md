@@ -22,11 +22,11 @@
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-placentia | what happens after an arrest in Placentia | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-placentia | how do bail bonds work in Placentia | Bail Bonds 101 | ✅ published |
-| 2026-04-10 | Fri | how-much-is-bail-placentia | how much is bail in Orange County | Bail Amounts | ⬜ |
+| 2026-04-10 | Fri | how-much-is-bail-placentia | how much is bail in Orange County | Bail Amounts | ✅ published |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-placentia | how to get someone out of jail in Placentia | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-placentia | domestic violence bail bonds Placentia | DV Bail | ⬜ |
 | 2026-04-13 | Mon | dui-bail-bonds-placentia | DUI bail bonds Placentia | DUI | ⬜ |
-| 2026-04-14 | Tue | felony-bail-bonds-placentia | felony bail bonds Placentia | Felony | ⬜ |
+| 2026-04-14 | Tue | 2026-04-14-placentia-bail-bonds | placentia bail bonds | Hub Post | ✅ published |
 | 2026-04-15 | Wed | drug-possession-bail-placentia | drug possession bail Placentia | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-placentia | can you bail someone out at night in Placentia | 24/7 Bail | ⬜ |
 | 2026-04-17 | Fri | how-long-bail-takes-placentia | how long does it take to bail someone out of Placentia PD | Timeline | ⬜ |
