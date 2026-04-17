@@ -29,7 +29,7 @@
 | 2026-04-14 | Tue | 2026-04-14-placentia-bail-bonds | placentia bail bonds | Hub Post | ✅ published |
 | 2026-04-15 | Wed | drug-possession-bail-placentia | drug possession bail Placentia | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-placentia | can you bail someone out at night in Placentia | 24/7 Bail | ⬜ |
-| 2026-04-17 | Fri | how-long-bail-takes-placentia | how long does it take to bail someone out of Placentia PD | Timeline | ⬜ |
+| 2026-04-17 | Fri | how-long-bail-takes-placentia | how long does it take to bail someone out of Placentia PD | Timeline | ✅ published |
 | 2026-04-18 | Sat | bail-bond-cost-placentia | how much does a bail bondsman charge in Placentia | Costs | ⬜ |
 | 2026-04-19 | Sun | bail-bond-payment-plan-placentia | bail bond payment plan Placentia | Payment Plans | ⬜ |
 | 2026-04-20 | Mon | jail-booking-process-placentia | jail booking process at Placentia PD | Jail Process | ⬜ |
