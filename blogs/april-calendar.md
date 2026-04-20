@@ -33,16 +33,16 @@
 | 2026-04-18 | Sat | bail-bond-cost-placentia | how much does a bail bondsman charge in Placentia | Costs | ⬜ |
 | 2026-04-19 | Sun | bail-bond-payment-plan-placentia | bail bond payment plan Placentia | Payment Plans | ⬜ |
 | 2026-04-20 | Mon | jail-booking-process-placentia | jail booking process at Placentia PD | Jail Process | ⬜ |
-| 2026-04-21 | Tue | inmate-search-placentia | how to find someone in jail Placentia | Inmate Search | ⬜ |
-| 2026-04-22 | Wed | what-to-expect-arraignment-placentia | what to expect at arraignment North Justice Center Fullerton | Court Process | ⬜ |
-| 2026-04-23 | Thu | bail-hearing-placentia | bail hearing process in Orange County | Bail Hearing | ⬜ |
-| 2026-04-24 | Fri | warrant-bail-bonds-placentia | warrant bail bonds Placentia | Warrants | ⬜ |
-| 2026-04-25 | Sat | what-happens-miss-court-placentia | what happens if you miss court date Placentia | FTA | ⬜ |
-| 2026-04-26 | Sun | assault-bail-bonds-placentia | assault and battery bail bonds Placentia | Assault | ⬜ |
-| 2026-04-27 | Mon | theft-bail-bonds-placentia | theft and burglary bail bonds Placentia | Theft | ⬜ |
-| 2026-04-28 | Tue | choosing-bail-bondsman-placentia | how to choose a bail bondsman in Placentia | How to Choose | ⬜ |
-| 2026-04-29 | Wed | bail-bond-cosigner-placentia | what does a bail bond cosigner do Placentia | Cosigner | ⬜ |
-| 2026-04-30 | Thu | bail-bond-conditions-placentia | bail conditions and restrictions Orange County | Conditions | ⬜ |
+| 2026-04-21 | Tue | warrant-bail-bonds-placentia | warrant bail bonds Placentia | Warrants | ⬜ |
+| 2026-04-22 | Wed | what-happens-miss-court-placentia | what happens if you miss court date Placentia | FTA | ⬜ |
+| 2026-04-23 | Thu | assault-bail-bonds-placentia | assault and battery bail bonds Placentia | Assault | ⬜ |
+| 2026-04-24 | Fri | theft-bail-bonds-placentia | theft and burglary bail bonds Placentia | Theft | ⬜ |
+| 2026-04-25 | Sat | choosing-bail-bondsman-placentia | how to choose a bail bondsman in Placentia | How to Choose | ⬜ |
+| 2026-04-26 | Sun | bail-bond-cosigner-placentia | what does a bail bond cosigner do Placentia | Cosigner | ⬜ |
+| 2026-04-27 | Mon | bail-bond-conditions-placentia | bail conditions and restrictions in Orange | Conditions | ⬜ |
+| 2026-04-28 | Tue | first-offense-bail-placentia | first offense bail bonds Placentia | First Offense | ⬜ |
+| 2026-04-29 | Wed | felony-vs-misdemeanor-bail-placentia | felony vs misdemeanor bail Placentia | Charge Types | ⬜ |
+| 2026-04-30 | Thu | weapon-charges-bail-placentia | weapon charges bail bonds Placentia | Weapon Charges | ⬜ |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
