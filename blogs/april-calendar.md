@@ -39,7 +39,7 @@
 | 2026-04-24 | Fri | theft-bail-bonds-placentia | theft and burglary bail bonds Placentia | Theft | ⬜ |
 | 2026-04-25 | Sat | choosing-bail-bondsman-placentia | how to choose a bail bondsman in Placentia | How to Choose | ⬜ |
 | 2026-04-26 | Sun | bail-bond-cosigner-placentia | what does a bail bond cosigner do Placentia | Cosigner | ⬜ |
-| 2026-04-27 | Mon | bail-bond-conditions-placentia | bail conditions and restrictions in Orange | Conditions | ⬜ |
+| 2026-04-27 | Mon | bail-bond-conditions-placentia | bail conditions and restrictions in Orange | Conditions | ✅ published |
 | 2026-04-28 | Tue | first-offense-bail-placentia | first offense bail bonds Placentia | First Offense | ⬜ |
 | 2026-04-29 | Wed | felony-vs-misdemeanor-bail-placentia | felony vs misdemeanor bail Placentia | Charge Types | ⬜ |
 | 2026-04-30 | Thu | weapon-charges-bail-placentia | weapon charges bail bonds Placentia | Weapon Charges | ⬜ |
